@@ -1,0 +1,1 @@
+The program utilizes correlation between two signal to identify the speaker
